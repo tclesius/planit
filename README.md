@@ -1,4 +1,4 @@
-# planit
+# Planit
 
 The Planit project.
 
